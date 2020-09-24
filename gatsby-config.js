@@ -1,33 +1,29 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `techpool ~ Suryadeep Pal ~ Learner . Coder . Geek`,
+    name: `Suryadeep Pal`,
+    siteUrl: `https://techpool.me`,
+    description: `A small guy who has been trying to exit vim and travel the world.`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `A small guy who has been trying to exit vim and travel the world.`,
       maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/webogeek`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/techpool`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://instagram.com/suryadeeppal`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        url: `https://www.linkedin.com/in/suryadeep-pal/`,
       },
     ],
   },
@@ -48,8 +44,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `techpool ~ Suryadeep Pal ~ Learner . Coder . Geek`,
+        short_name: `techpool`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
